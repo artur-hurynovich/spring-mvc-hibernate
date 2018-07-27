@@ -1,1 +1,1 @@
-# spring-mvc-hibernate-example
+# spring-mvc-hibernate
